@@ -1,4 +1,4 @@
-# <p align="center">Yogendra Kumar</p>
+### <p align="center">Yogendra Kumar</p>
 <p align="center">
   <b>AI Engineer | Microsoft AI Program Scholar | BCA Graduate</b><br>
   <i>Specializing in Enterprise RAG Systems & Data Intelligence Pipelines</i>
@@ -24,11 +24,11 @@ I am a **BCA Graduate** and current scholar in the **Microsoft AI Engineer Progr
 
 ### 🛠️ Technical Ecosystem
 
-| Domain | Tools & Technologies |
+| Domain | Professional Competencies & Tools |
 | :--- | :--- |
-| **Artificial Intelligence** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Green?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Data Engineering** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Artificial Intelligence** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Green?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) <br> **Expertise:** Prompt Engineering, RAG Architecture, Azure OpenAI, NLP, Computer Vision, Bot Service, MLOps, Responsible AI, Neural Networks, Agentic AI |
+| **Data Engineering** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) <br> **Expertise:** Data Orchestration (ETL/ELT), Relational Modeling, Feature Engineering, Vector Databases, Data Governance |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> **Expertise:** Azure AI Services (AI-102), GitHub Actions, Model Deployment, API Management |
 
 ### 🏆 Featured Project
 
