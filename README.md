@@ -1,61 +1,61 @@
-# Hi there, I'm Yogendra Kumar 👋
-### 🚀 Aspiring AI/ML Engineer | BCA Final Year Student
+# <p align="center">Yogendra Kumar</p>
+<p align="center">
+  <b>AI Engineer | Microsoft AI Program Scholar | BCA Graduate</b><br>
+  <i>Specializing in Enterprise RAG Systems & Data Intelligence Pipelines</i>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yogendrakumar-ai-ml2025)
-[![Gmail](https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail)](mailto:yogendrakumar.ai.ml2025@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogendrakumar-ai-ml2025"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yk1082420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0089D6&height=120&section=header&text=Building%20Intelligence&fontSize=40&animation=fadeIn" />
+</p>
 
 ---
+### 👨‍💻 Executive Overview
+I am a **BCA Graduate** and current scholar in the **Microsoft AI Engineer Program**. My work centers on bridging the gap between raw data and scalable intelligence. I focus on developing production-ready AI solutions, optimizing **Large Language Models (LLMs)**, and architecting **Retrieval-Augmented Generation (RAG)** systems within the Azure ecosystem.
 
-### 👨‍💻 About Me
-I am a highly motivated **Bachelor of Computer Applications (BCA)** student at DS College, Aligarh. I possess a disciplined approach to technical growth and a strong problem-solving mindset. 
-
-Currently, I am dedicated to an intensive learning path in **Artificial Intelligence** and **Machine Learning** while preparing for **NIMCET 2026**. My goal is to leverage my skills in Python and Cloud Computing to contribute effectively as an AI/ML Engineer.
-
+- 🧬 **Current Research:** Advanced Prompt Engineering & Vector Database Optimization.
+- ☁️ **Cloud Strategy:** Implementing Cloud-Native AI via Microsoft Azure AI Services.
+- 🏛️ **Philosophy:** Data is the foundation; Intelligence is the refinery.
 ---
 
-### 🛠️ Technical Skills
-| **Category** | **Technologies** |
+### 🛠️ Technical Ecosystem
+
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
-| **Cloud & DB** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) |
-| **Core Concepts** | DBMS, Data Structures, AI Basics, ML Algorithms |
+| **Artificial Intelligence** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Green?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Data Engineering** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+### 🏆 Featured Project
+
+#### 📊 [Olist E-commerce Data Intelligence](https://github.com/yk1082420-ai-ml2025/Olist-Ecommerce-Data-Intelligence)
+> **Role: Lead Data Architect**
+- **Architecture:** Engineered a unified data lake by merging 9 distinct relational datasets containing **100,000+ orders**.
+- **Impact:** Identified logistics bottlenecks and optimized sales trend analysis using multi-variate statistical modeling.
+- **Tools:** Python (Scikit-learn, Seaborn, Pandas), SQL, Feature Engineering.
+
+### 📊 Engineering Metrics
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yk1082420-ai-ml2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk1082420-ai-ml2025&layout=compact&theme=tokyonight" />
+</p>
+
+### 💬 Connectivity & Collaboration
+- 🔭 **Currently Building:** Enterprise-grade RAG agents for document intelligence.
+- ⚡ **Looking For:** Collaborative opportunities in Open Source AI and Cloud-Native ML.
+- 📫 **Contact:** Reach out for high-impact AI/ML engineering roles.
 
 ---
-
-### 🏆 Experience & Certifications
-
-#### **☁️ Microsoft Azure Certificate**
-*Edubuddy Organization | Vision Institute of Technology*
-- Completed intensive certification on cloud infrastructure.
-- Mastered Azure architecture, security compliance, and virtual networks.
-- Gained hands-on experience with real-world cloud scenarios.
-
-#### **💻 Hackegear 1.0 Participant**
-*Vision Institute of Technology (June 2025 – Dec 2025)*
-- Collaborated with peers to solve algorithmic challenges in a competitive environment.
-- Contributed to logic flow and technical solutions under strict time constraints.
-
-#### **🤖 AI/ML Trainee**
-*Apna College (Remote)*
-- Undertaking a structured curriculum focused on AI/ML algorithms.
-- Applying Python and Data Structures to solve coding problems.
-
----
-
 ### 🎓 Education
-- **Bachelor of Computer Applications (BCA)** | *DS College, Aligarh* (Expected 2026)
-- **Intermediate (Class XII)** | *Janta Inter College, Dharampur* (2023)
-- **High School (Class X)** | *KVI College, Kharikwari* (2021)
-
----
-
-### ⚡ Interests
-- 🧠 **Tech Exploration:** Reading the latest AI trends and documentation.
-- 🎮 **Strategic Gaming:** Logic-based strategy games and planning.
-- 📹 **Content Creation:** Creating engaging narratives and video content.
+- **Microsoft AI Engineer Program** | *Advanced Professional Specialization* (In Progress)
+- **Bachelor of Computer Applications (BCA)** | *DS College, Aligarh* (Graduated 2026)
+- **Secondary & Senior Secondary Education** | *Focus on Computer Science & Mathematics*
 
 ---
 <p align="center">
-  <i>"I’m Busy Competing With Myself"</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0089D6&height=60&section=footer" />
 </p>
