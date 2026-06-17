@@ -1,6 +1,6 @@
 ### <p align="center">Yogendra Kumar</p>
 <p align="center">
-  <b>AI Engineer | Microsoft AI Program Scholar | BCA Graduate</b><br>
+  <b>Transitioning | AI & Automation  Engineer | Building With Microsoft AI Engineer Program|BCA Graduate</b><br>
   <i>Specializing in Enterprise RAG Systems & Data Intelligence Pipelines</i>
 </p>
 
